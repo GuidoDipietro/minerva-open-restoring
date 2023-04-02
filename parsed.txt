@@ -1,0 +1,348 @@
+333R1A.pdf
+{
+  "scrambles": [
+    "F' R F2 L2 B2 R' F2 U2 L D2 L U' L R F R2 D R F2",
+    "U2 B2 L2 F2 U F2 U2 F' L' D2 B L D U2 B2 F U2 F'",
+    "D' F L' B' D B R F R2 B L2 U2 B' D2 F R2 B' U2 R' U'",
+    "R2 F2 D L2 B2 L2 D' L2 F R' B' F' U B' D2 L' F' L2 B2",
+    "R2 B' D' R' B' U' F2 U2 L B' R2 B2 U' R2 F2 D2 B2 U F'"
+  ],
+  "extraScrambles": [
+    "U B L2 B L2 D R U L' F2 D2 L2 D' F2 D B2 U2 R2 F2 B2",
+    "R' U2 B' D L' U2 F R2 D2 L' F D' F2 D2 B2 R2 U2 B2"
+  ]
+}
+-----------------------------------------------------------------
+333R1B.pdf
+{
+  "scrambles": [
+    "L2 D' R2 B2 U R2 D' L2 D F2 U B2 L' B' D R' F' L' U2 B L2",
+    "R2 D2 F U2 F' D2 B F' U2 D' B2 R' F' L R D B2 D2 L2",
+    "F U' D B R' U' R F2 D2 F' U2 B' R2 D2 F' D2 B L U R'",
+    "L2 R' B2 D2 L F2 B' U2 B' U' F2 R2 D R B' D",
+    "R D' R U D R' L2 F2 B R' D2 F' L2 B' R2 B2 R2 D2"
+  ],
+  "extraScrambles": [
+    "R' F U B' L' F2 R' L' B' R' D2 B L2 D2 F D2 B2 U2 D2",
+    "D2 F' B' R B U L B D' F2 D L2 D' L2 B2 D F2 D' R B2"
+  ]
+}
+-----------------------------------------------------------------
+333R1C.pdf
+{
+  "scrambles": [
+    "U' B2 D2 R2 U' B2 L2 D' R2 L' B D' F D' L' B D2 U' F2",
+    "B U' L' U2 B' U2 R2 F' L2 F R2 D2 F' U R D R D L' R",
+    "F2 U' L B' R2 B' D' B' D2 R2 B' U2 B2 D2 B2 R U' R2",
+    "F2 U2 F2 R U2 B2 U2 R' U2 F2 D' F' R' F R' B R' D' F R2",
+    "B U F2 R2 F2 D2 B2 U' L2 U2 R2 U L2 B D' B D' R' D' R'"
+  ],
+  "extraScrambles": [
+    "U2 L' U2 L' F2 D2 R2 F2 R' B' F D R B' L2 F' L B D R",
+    "R2 F' D L F2 D2 F D' L D B2 U2 R2 D F2 B2 L2 U' L"
+  ]
+}
+-----------------------------------------------------------------
+555R1A.pdf
+{
+  "scrambles": [
+    "Rw Lw D' Dw' Lw2 D L' Uw' F2 U2 Rw' Lw2 R' B2 D' R2 U' B' Uw L2 Fw' Dw' Bw2 Fw' B Rw2 Lw2 Bw' Lw L2 U2 B' D L F2 Uw2 L' Dw' F Uw2 Fw' B' Uw2 L2 U Uw' L B U' F Lw' U' Uw Rw' R Fw2 D2 F Dw' Fw",
+    "Lw2 D2 F D' L Dw Uw2 L D2 R' Bw Fw' Uw2 Fw2 Lw' R2 U Uw2 Bw' U Uw L2 Uw Lw Dw Uw' Lw Uw2 D F2 Rw2 L Uw' Fw2 D2 L Fw U2 L Rw' Uw2 D' F2 D2 L' Uw2 R2 B2 Lw Dw Lw L U Bw' Rw2 D' Uw B2 L Lw'",
+    "Lw' Uw B2 F Bw2 D2 B' D' Uw' Rw' Uw' Dw2 R2 Lw2 Rw D Dw' Rw D2 F B' Lw' Bw2 F Rw D' R Lw B2 Lw Uw Dw2 R Lw U D2 Bw' R2 U D Lw Fw Uw L U' B' F' R' B2 Lw' R B R Fw2 Dw' Bw2 Rw Uw' Rw' Uw",
+    "F2 R' Dw' Bw2 Rw' R' L2 B2 R2 D Lw2 L2 F2 U2 R' L' Rw B Lw' Rw' Dw2 D' Lw2 R' Rw Fw' F B' R' Rw U' Lw' D B' U' Dw2 Bw' L' Fw' R2 U2 Fw2 Bw' Lw2 B' U Lw2 F' Bw2 Uw' Bw' Lw2 Fw F2 L' Uw' U B2 Lw2 U",
+    "D2 Fw F2 Dw2 U' R' Uw2 Bw' F2 Uw L R F' Fw' U2 L Rw U' D' R' F2 D' Bw' B L Fw2 Rw' Fw2 D2 F L2 Rw' Bw F2 Rw' Lw2 Fw' U B' U' D' Lw' Fw' R Rw2 Fw Dw Lw' Uw D2 L' Fw U R Lw' U' R' Rw' F2 Bw2"
+  ],
+  "extraScrambles": [
+    "Uw' B Bw' U' Lw2 F' Rw' B' Uw2 Rw Lw' Dw U' R2 Lw Fw Bw' L' Fw2 U Lw' B' Dw F' D L Fw2 Bw2 Lw2 F2 Fw Dw Rw' Uw2 Bw2 Fw2 U2 Uw Dw F' D' R F' Lw Rw2 Fw' Bw' L2 U2 Bw' R2 Fw2 Bw2 Dw Lw2 B2 Uw' Dw D' B'",
+    "Uw U R Rw L U2 R Fw2 R' Rw' B U2 Fw2 D2 L' Lw2 F Lw' D F' Rw' Uw2 Rw U' B' Bw' R2 Bw' Lw2 Uw2 Lw Fw' U2 B2 Rw Fw2 Uw D L' B' F2 Fw' Rw' U2 Lw L U Rw L D Fw' Uw2 Lw2 Uw' R2 Bw2 Lw Uw Dw2 U2"
+  ]
+}
+-----------------------------------------------------------------
+555R1B.pdf
+{
+  "scrambles": [
+    "F2 B Rw Uw2 D2 R' Dw Bw' Rw B2 Fw2 L' Dw2 Fw' F' B U' B2 D2 B2 Rw2 Dw' B2 R2 Uw D U' Bw' U' Rw F Bw2 B2 Lw' U' Bw Lw2 Fw' B Rw Bw' Rw Fw R L Rw' Uw2 U' Fw' R L2 B2 L R2 U Uw Fw2 Uw' L' Dw",
+    "F2 L' D' R2 Uw2 U2 B' U Fw Dw Uw' D B2 D' Uw' Rw Uw F2 U2 R2 Lw2 Bw R Bw2 L' D Bw Uw' L2 Fw' Uw2 B F Rw F2 B' U R Dw2 Rw B D R2 Bw' B2 Uw Lw' Dw' Fw2 R Uw Dw' Lw' Fw2 D Dw U2 B R U2",
+    "Fw R2 D2 F' Bw' U2 R' F' Bw' B2 D2 Uw L Bw Dw' F Fw D' Uw Bw2 Uw' U2 Dw Lw' Uw Dw' D Rw' Fw Lw U Fw2 Uw D B' F R2 U' Dw Fw' Lw L R Dw Lw2 Fw U' Rw' Bw R2 Bw Lw F U Rw U2 Uw2 Fw2 U Bw",
+    "Uw D' F2 L R2 Fw Dw' F' Fw2 Rw2 Dw2 Uw B2 Fw F2 Bw' R' F2 Dw R U' R Dw F2 Uw2 R2 D' Rw' R2 Dw' Lw Rw' F2 Bw2 B2 U2 D2 Bw2 Dw' Lw2 Uw2 R' F' Rw' Dw D Bw' Dw' B2 Lw2 U D F Bw' Fw' D' Fw R D' U2",
+    "D Fw2 Uw' U Bw' Uw2 U2 B2 Uw2 F' Uw Fw Dw' D2 Lw' Rw' U' Lw2 Uw Lw F' Rw D' F U' Dw2 Bw F U B2 D F2 Dw B Rw Fw F B2 U' L Fw2 F' Dw B2 U Bw Rw' Dw Lw2 Uw R L2 F' Rw Uw Dw L Rw U Lw2"
+  ],
+  "extraScrambles": [
+    "L' Dw' Uw U B L2 D2 U' Rw Uw B2 L R2 Fw2 Lw2 R2 Uw Dw' L' Lw2 Uw2 D Fw L D Lw2 U2 R2 Bw' R Bw L F' U' Lw' Bw' B' L U Dw2 R' D2 L Fw' Bw' Rw' F' Uw Dw R' Rw' D' Bw Rw D' R U2 B D Dw'",
+    "Bw R2 D' B2 Rw Lw Fw R2 F Bw' B' L2 U Fw2 Rw2 R' B' Lw' R2 Fw' D' Uw2 Dw' Rw F' Lw2 B2 R2 F2 D2 L R Dw Lw' Uw2 Dw2 Bw2 Uw2 R U2 Rw2 Lw' F2 Dw Bw2 U' Lw' F2 L2 U' B' Lw Rw2 R2 D' Bw2 D' Fw' Lw' Dw"
+  ]
+}
+-----------------------------------------------------------------
+555R1C.pdf
+{
+  "scrambles": [
+    "U2 L D' Lw F D Uw L' F2 R U2 D F' R' Bw' Uw B2 Bw2 L2 F Rw Fw' F' U2 B Dw R U2 Uw2 D' Fw' Lw2 R2 Bw2 L' Fw Lw U D' Bw2 Lw U B Bw2 Fw' Rw2 D Fw D Lw' L F Dw L2 D B' Dw' Fw Uw Bw",
+    "R' F' Dw F Dw' Rw2 Uw2 Lw2 Fw2 Rw' Dw2 Fw' U B' Rw Uw' B2 L R' F R U' Lw2 Rw D' U' Bw Lw2 R' U F' B' Bw' R2 F L' B' Rw' Lw Fw2 B Rw Dw' R Lw Rw' Dw2 Rw F' Lw Dw U' Bw' L R' U2 Uw' L R' Uw",
+    "Rw' Fw U' D' F' Bw' U' L' Rw Dw' D2 B2 Uw2 L U' B Uw2 F U2 Dw' Uw' Rw F2 D2 F R Uw F' Rw Uw D U' Rw' R Uw' Dw D' F2 D2 Lw Dw' D' Fw2 Uw' Fw' Bw2 F2 D Fw' Dw2 Uw' Bw' U F R' Fw2 F' B' R2 B'",
+    "Lw Uw R' F' Lw' F' B' Dw2 Bw2 Uw2 U' Fw2 D B Uw' Fw2 U' Bw Fw2 D' Lw U D2 Bw' R' Dw F2 L2 Uw2 F' Lw U D2 Dw' L' Lw2 Bw L2 U Fw2 Lw Bw R' L' D' Uw2 B2 F' Rw U2 Fw Uw2 F2 Uw2 R' Bw L2 D Rw Bw",
+    "U2 F' R2 Dw' L Bw B' D' Rw' Uw' F2 B2 Fw2 Uw' D2 Lw2 U' Uw Fw Lw' Bw2 Fw' Lw2 D' Dw R' Bw' Dw U Fw2 U' Lw' R2 B2 U2 R' D' Lw' Uw R' Fw Uw2 D2 Bw D' Rw2 D' Lw' Rw2 Uw' Lw2 Rw2 R' B' Bw Rw Uw' F' D2 Fw'"
+  ],
+  "extraScrambles": [
+    "F' Fw U D' Fw' Uw B' Uw D' F' Lw' L2 D B' F' D' L2 F2 Rw2 F' Bw' D' Lw D' Fw L' Uw2 Rw2 Uw2 Rw' Fw' R B U2 B U' Uw L F Bw2 Rw L2 Dw D Rw' U D2 Fw2 Dw F' Uw' B' Fw2 Uw2 Dw' Fw U2 R2 Uw Rw2",
+    "R' L2 D2 L2 D' U Rw' F D' Uw Lw2 U' L2 Dw2 U' Bw Fw B2 Lw R Uw D L2 Uw B' Bw L2 R Rw' Fw2 F2 D Fw2 R Dw2 Lw L' Bw Rw' L' F U D' Dw' Bw2 Fw2 R B' Dw2 Uw B Rw2 Uw R2 Dw R Bw2 D F Fw'"
+  ]
+}
+-----------------------------------------------------------------
+666R1A.pdf
+{
+  "scrambles": [
+    "Rw' F' 3Fw' R' 3Fw2 L2 Fw Lw2 Rw Dw U D Fw' Uw2 F2 3Fw U' 3Fw2 B' L Dw2 3Fw 3Rw2 F2 Bw 3Fw' 3Uw' 3Rw 3Uw2 Bw' 3Uw Bw' D2 3Rw' Dw2 U F' Bw2 Dw Fw2 Lw' Dw2 Bw' D' Rw 3Fw D' Fw' U' 3Uw Bw Rw' L Bw2 L' 3Rw' Dw 3Uw R' Uw' U 3Rw2 F' Rw2 B' L2 3Rw2 Bw2 Lw2 L Dw2 Bw U2 Rw F' L2 D2 F2 Uw D'",
+    "Rw' Fw F2 L Bw B' 3Rw U' B2 Dw' 3Rw2 Bw2 F' Fw2 3Rw2 3Fw Fw2 Dw2 B2 U' 3Uw B2 F2 L 3Rw2 D' 3Uw' Lw B' Uw L2 3Fw D Dw2 3Uw L Bw2 Dw' F2 R2 Fw D Bw' F2 B2 3Rw2 3Uw' 3Fw Lw Uw2 3Rw' 3Fw' 3Rw Fw2 3Rw Uw' B' L' B Rw Dw D' 3Fw2 Bw R2 Dw' R2 Dw 3Fw' Dw2 D R Uw2 Dw2 Lw' Dw L Bw2 B U'",
+    "Rw2 U2 Uw2 Rw2 3Fw' R' Lw' 3Uw' U' Bw B L Rw' Fw 3Rw' Lw' Bw2 Uw B' Fw Lw' Dw Rw2 Uw' B2 F2 Lw' B 3Uw U2 Lw2 R2 Bw' U2 Uw' Rw R' 3Rw2 Uw2 R2 Lw' D2 R D' U' L Fw B2 Rw' 3Rw D' B2 3Uw 3Fw' Uw2 L Lw B' 3Uw Rw' 3Fw2 R' U 3Rw' Lw' L Bw2 B D L Bw' U' Lw2 F2 U2 D' L2 3Fw' Uw' F"
+  ],
+  "extraScrambles": [
+    "Uw Dw' F' Fw R' L' 3Fw2 3Rw' Uw' Dw' 3Uw' Rw R' U F' 3Uw2 3Fw2 Bw Uw2 3Fw2 D' Uw B 3Rw' Bw2 Fw' 3Uw' D2 3Rw' U Bw2 L2 3Uw2 Rw2 3Rw2 F L2 U' 3Uw2 F Uw' Lw D2 Rw2 L' U' Lw2 Rw2 D' B' L B Rw2 Lw' L2 B2 U2 Rw2 3Uw F' 3Fw R' 3Rw' Lw F' Lw' 3Fw 3Uw2 R Rw' 3Fw2 Uw' 3Fw U' D2 Lw 3Rw' L F Lw'",
+    "3Fw' Uw 3Fw2 D F Dw' F Dw' Uw 3Fw2 D' B Lw2 3Fw Rw2 3Fw2 B' Lw2 B' Lw2 F2 Lw' Uw' R' B 3Fw Fw' Uw 3Rw D2 Lw2 3Uw Bw' Fw' 3Uw 3Rw2 Bw2 L' B2 Dw B 3Fw Uw2 Lw2 3Fw Rw2 L' Lw2 Uw2 3Uw' 3Rw2 L B 3Fw F Dw D Fw' B2 F2 3Fw2 D Dw2 3Fw2 Fw2 D' F2 B' 3Uw' 3Rw' B' Uw Bw B2 Lw' 3Fw R2 Lw Uw' L"
+  ]
+}
+-----------------------------------------------------------------
+666R1B.pdf
+{
+  "scrambles": [
+    "3Uw' Dw' D2 Bw 3Uw' 3Rw' 3Uw' R2 Fw2 Uw Bw' L Fw' F 3Rw Lw2 L F' Uw2 Rw2 R' 3Rw' 3Fw U' B2 3Uw Uw Bw' Fw' Dw2 3Fw2 L Dw' 3Rw2 Rw Dw Rw F' Bw2 Lw' F R' L 3Fw2 U' B' Uw2 3Uw2 Dw2 F2 3Rw2 Bw' R' Fw' Bw 3Uw2 Fw L' 3Uw2 R Uw2 3Fw' B2 Bw2 Uw2 Dw2 L' D L2 3Fw' D Lw2 3Uw' L' R Lw D' L2 D' B",
+    "B' 3Uw2 Lw Bw' Fw' 3Uw' Uw' Rw2 L D' F2 R Rw Lw2 3Rw Dw D2 B2 3Uw B 3Fw' D2 Uw Fw2 Bw' Lw' 3Fw' 3Uw2 Lw2 U2 Dw Bw2 Fw Rw' D Dw Bw2 Rw2 B2 Bw2 L' Rw' U 3Uw D2 B2 D2 3Fw' L2 3Uw' U2 R2 D 3Fw Dw L2 F' 3Fw' Rw' F2 3Rw L2 R2 Rw' D2 Bw' Lw 3Uw2 U Rw2 L2 3Fw' Fw' B2 Rw2 Uw2 L2 U2 3Uw 3Fw'",
+    "Dw2 R' D' 3Fw2 Lw2 Bw' 3Uw2 3Fw' Dw' Rw 3Rw' F Bw Rw' Uw' Bw 3Uw2 F' D Rw' 3Fw2 R Uw2 Fw Bw2 Uw D2 B' U B U' 3Uw' Fw2 F' Uw Lw2 Fw2 B R2 Fw Rw' R2 Fw' U2 Fw2 B Dw' 3Rw R D' Bw2 F' Dw' B Dw Bw' 3Rw' Dw' Bw' B F2 Fw2 D2 F D' 3Fw' U Fw' 3Fw2 D 3Rw D2 3Rw' Bw 3Rw Bw2 Fw2 3Rw 3Uw D"
+  ],
+  "extraScrambles": [
+    "Uw F2 R' L' Lw' Rw' U' Bw' F2 U L' U2 3Fw2 U' Uw' Rw Dw Fw' U2 Lw D 3Fw D' B Uw2 3Fw Dw 3Rw L' Uw 3Rw2 Rw' Fw' D Bw 3Rw 3Uw 3Fw Fw2 R B' 3Uw 3Fw Fw2 B' F2 Uw2 Fw Dw2 Fw Uw Lw F2 3Uw2 Rw Bw2 U' F2 3Rw2 U2 B2 Dw' Fw' D2 Lw' F' D2 Fw2 3Uw' U' Lw2 Rw' L2 Fw' 3Uw' 3Fw Bw Rw' B' Lw'",
+    "3Fw F' 3Rw' F L' R' Uw2 L2 Uw' Fw2 Bw' U' F Uw2 3Fw' F2 Fw2 D2 U' Rw D' 3Uw R Dw L' 3Fw' Bw Fw' L2 Lw2 U2 F' L Bw F2 Lw L' Bw' 3Rw2 Uw Fw2 Uw' 3Rw' Uw' Lw2 U R' Uw' Dw' 3Fw' L2 D2 L2 Bw 3Rw U2 Lw U' R2 U' 3Uw2 Bw' F L2 Uw Rw B2 3Fw2 Rw' Bw2 Fw' 3Fw' Dw2 B Fw2 Bw' D R' B2 F"
+  ]
+}
+-----------------------------------------------------------------
+666R1C.pdf
+{
+  "scrambles": [
+    "B 3Rw2 L' 3Fw F Bw 3Uw' D' F 3Fw2 B Lw2 Dw2 Fw 3Rw' Bw Fw2 L2 R2 F' Dw' L' D Bw Uw 3Uw 3Fw' F B R2 F2 Bw' L' Fw Bw 3Rw' Bw' B2 3Rw2 3Uw Fw' 3Uw2 Dw2 D' Lw' F' B' R2 3Fw D' Bw Fw2 3Rw' U' Rw2 B' 3Uw2 Lw2 U' 3Fw2 Lw2 Fw' 3Uw2 3Fw R2 Lw2 3Uw2 B2 U L' R' 3Fw' F2 R2 L B' L 3Uw U' Fw2",
+    "Lw' Fw2 3Rw U 3Uw' 3Fw L 3Rw2 3Fw' U2 3Rw Lw2 Bw2 B' F Rw2 Uw2 3Uw' F Bw Dw U' 3Uw Fw2 Dw' Uw' 3Uw' Bw' Rw U' Rw' Lw2 B 3Rw F 3Fw' Fw2 D 3Fw2 Uw Dw2 D Bw' 3Uw2 Bw D' R Dw Bw' Uw' U2 B Bw' D Fw' Lw2 Bw Uw2 B R D' 3Rw2 Lw' R' 3Uw2 3Rw' L' B2 L Bw2 3Fw U' 3Fw2 Rw' D' U2 L' Uw Fw D'",
+    "Lw2 3Fw' Lw2 3Uw' Dw' Bw R' F2 Fw2 D2 Uw2 Fw' L Fw' Uw2 U 3Fw' U2 Bw' B 3Uw D Bw' B' 3Uw U' R2 Bw F2 R 3Fw' F2 3Uw' Fw2 R' 3Fw R' Rw Bw' Dw2 R' Uw2 R2 Lw2 3Fw' Lw F2 U' D' B2 U Fw2 Dw 3Rw R' 3Fw' U2 R' Bw2 3Rw Rw2 3Uw2 L2 Uw2 3Uw D' Lw D Rw' Uw' L2 Bw Uw2 D Dw2 R2 Lw' Uw2 F D'"
+  ],
+  "extraScrambles": [
+    "Bw' R 3Uw U2 F Uw 3Fw' D Fw' F 3Uw' D Rw L' Bw U2 R 3Uw2 3Rw 3Fw' Dw 3Rw' Fw' Uw' 3Rw' Lw' Uw2 3Fw2 Fw2 Bw F' Dw U Lw' 3Rw2 Uw D2 Rw2 Dw2 3Fw' B2 L Uw' L2 U Fw' Lw B' 3Uw F' L' 3Fw' Dw B Fw' L2 Uw Fw B' D U' Lw2 Dw B' 3Rw' Uw L D' 3Fw Fw2 Uw' U2 F' R' F L2 3Rw' Dw' L Bw'",
+    "Fw 3Fw' 3Uw U2 Fw2 L2 D' Rw' 3Uw F' B 3Uw Dw B Fw' 3Rw' Uw 3Fw' Uw' Lw2 Dw' Rw' B Uw' 3Fw' Bw2 3Uw2 B' R2 L' 3Fw2 Lw2 Bw Fw' 3Fw' L' 3Rw' Uw2 3Fw 3Rw' Fw2 F 3Fw Lw2 3Rw' F 3Fw Dw2 3Fw' 3Uw U2 Lw' Bw' B' U2 3Uw Rw2 D2 R2 3Fw2 Dw2 F Dw F 3Uw' 3Rw' Lw2 F' 3Rw Uw' 3Fw' Dw2 R2 Lw2 B' F' Fw Rw' Fw2 Uw2"
+  ]
+}
+-----------------------------------------------------------------
+777R1A.pdf
+{
+  "scrambles": [
+    "3Rw' 3Fw Bw R' L Fw2 Rw Uw2 Bw2 Fw L Dw 3Dw U 3Lw2 Fw2 U B2 Bw R2 Dw2 Uw2 F' Lw2 3Lw2 Bw Uw2 D' 3Lw Dw' 3Bw Lw2 U Uw' R2 F 3Uw2 Fw 3Lw2 3Uw 3Bw' 3Lw' R2 3Dw F' D Uw2 3Fw' R2 B' Dw' D2 F D2 3Dw' 3Bw' 3Uw' 3Rw2 Lw2 3Uw' 3Fw F' 3Lw2 3Dw' 3Lw' L' 3Dw L B' 3Uw' R 3Lw B' Dw' F 3Dw R2 3Rw 3Fw' Dw U' 3Fw2 Uw2 U2 R Bw' 3Fw B' L' D2 U Fw2 3Bw' Lw Fw' 3Lw Lw2 R' Bw Uw2",
+    "Lw' 3Uw Fw2 3Uw2 Uw' 3Lw 3Rw2 Fw2 3Lw Uw2 R' Bw2 3Rw2 F U 3Fw' Dw' D Fw' 3Bw 3Lw2 3Rw2 Dw2 3Rw R2 3Lw U2 Bw' U' D 3Bw2 R' 3Rw2 Bw Fw' 3Dw' U' 3Lw' 3Uw2 D 3Rw' 3Bw2 D F' D2 Lw2 3Lw2 3Bw Bw2 Lw 3Uw' 3Dw' Rw 3Rw Uw2 Rw2 3Bw' B Dw 3Rw' Dw 3Dw2 3Fw2 Dw L Lw R2 3Bw' 3Dw' R Fw2 Dw' Rw 3Bw' L2 Bw2 D2 3Rw B2 3Rw Rw2 3Lw' Dw' F2 3Dw2 D 3Lw2 Lw2 Dw2 U 3Lw U2 B' 3Rw' Dw' B Uw2 3Rw2 D Lw2",
+    "Fw D 3Fw' Lw' 3Lw Dw' 3Lw L' D 3Fw2 Lw' Rw D2 R Dw' 3Uw U B2 3Fw 3Uw Rw' 3Uw' Fw2 3Lw2 Bw2 3Lw U' Rw' B' 3Rw' B' Uw' 3Lw2 Lw' 3Dw 3Uw' Uw' R Dw' Bw' Uw2 F L2 Rw 3Fw' Dw2 Bw 3Uw2 D Rw' 3Rw' Fw' Lw Bw2 3Rw2 3Fw Bw2 D 3Fw2 3Uw2 Dw2 F 3Rw2 3Uw2 Dw' Bw 3Rw 3Fw' R' Bw 3Lw2 Bw' 3Dw2 Lw2 Bw 3Uw Uw Fw D2 3Rw' R2 3Bw 3Lw' Dw2 Bw' U 3Bw2 R 3Uw' F' Bw 3Bw 3Fw' Uw2 Lw' 3Rw D' 3Fw' 3Bw2 U'"
+  ],
+  "extraScrambles": [
+    "Fw2 Rw2 L' D Lw R2 B Rw L 3Lw2 D2 3Dw Uw2 3Bw D Rw Lw2 Fw2 3Fw Uw2 L' Lw2 3Fw Uw2 Rw2 3Uw' Dw' 3Lw' Rw 3Bw' Lw Uw2 3Lw' 3Uw' 3Fw Bw2 Fw2 Rw' Lw' R 3Bw D' Fw 3Bw2 3Fw2 Lw2 L D2 Bw' Lw F D Bw' Lw' 3Rw 3Fw2 3Dw' B' Fw R2 U' Bw F2 B2 U' 3Bw D2 3Rw2 3Uw2 Lw' 3Rw2 Dw2 Uw2 B2 3Fw2 3Bw2 F U2 D L 3Fw D' Lw' 3Fw2 Dw' R Uw2 Fw2 L2 F' D2 Dw2 3Fw 3Uw2 L Bw Uw' Dw2 D2 Bw'",
+    "3Uw' Fw' 3Uw 3Dw' L' R' 3Fw' Fw Bw' 3Bw U' Bw2 U2 R' D2 3Lw' Dw Uw' B Fw 3Dw' D' Dw' Rw' D' Bw Uw Rw' B 3Fw' Rw U' L Uw Lw' 3Fw' R2 3Rw' Fw' B 3Bw2 U' 3Fw' Uw L U2 L2 3Fw' Fw2 3Lw Rw L D' 3Rw2 Uw2 Dw 3Fw' 3Bw2 Fw' 3Lw2 R2 F 3Lw' B L' 3Lw U 3Rw2 F Bw2 Uw2 Bw' 3Bw Rw 3Bw' R 3Rw Fw U2 Bw2 R B2 3Dw' 3Lw2 3Rw2 Dw' Bw Dw' 3Fw 3Rw2 3Dw' 3Rw2 3Fw L' Lw' Fw Lw 3Uw2 3Fw2 F"
+  ]
+}
+-----------------------------------------------------------------
+777R1B.pdf
+{
+  "scrambles": [
+    "3Uw Rw2 3Dw2 3Rw' 3Uw' D' L2 Fw2 3Rw2 Bw' U' D2 3Fw Lw2 Bw2 U2 Dw' F2 3Rw' R' D2 3Fw L 3Fw2 Dw' Rw' Fw' Uw' U L D Lw2 U D 3Fw' Lw' 3Lw2 F' B 3Fw D F R D L2 Dw2 D' 3Rw' Uw D' Lw2 Rw' Fw' U2 Bw2 L Rw R F U L Lw2 B Bw2 Dw Lw Rw 3Bw2 Dw2 Bw2 Fw' B 3Dw' Uw2 B2 U Dw2 R' D' F2 3Rw2 Fw2 Bw 3Rw2 Rw' 3Lw L' D Rw' 3Fw' Bw' Lw' Bw' F' U L 3Rw' 3Fw Fw 3Bw'",
+    "B Fw D' 3Lw2 L' 3Dw' U' 3Lw B' Lw2 F2 3Uw' Lw' Dw 3Lw B2 Lw' 3Fw Rw2 3Bw2 Fw 3Lw' L' 3Bw2 3Lw' R Lw 3Rw2 3Fw R' Bw' Fw Lw' R2 U2 Lw2 3Fw2 3Lw2 Uw 3Fw' 3Dw Bw D R 3Bw' B' Fw2 Bw' Rw2 Bw2 Lw' L Rw 3Lw' F' U2 Lw' D' Fw Dw' Fw2 D2 3Rw Uw' D' 3Fw' 3Uw' B2 Dw R2 3Uw2 Rw2 3Bw2 3Uw' Bw' L Bw B' Uw 3Bw Bw2 L' F2 Lw2 B Dw' 3Lw Fw2 3Dw' 3Fw2 Uw2 Dw2 3Lw' 3Rw' Uw' 3Dw 3Rw Uw2 U' 3Lw'",
+    "R' Lw2 3Dw2 L2 U F2 3Uw' D' 3Dw' R D' 3Fw2 3Rw D 3Fw 3Rw2 L' Fw' L2 Lw2 Uw2 B L R Bw2 Fw Rw Uw Dw F U' D' F2 B Dw' D' Lw F2 3Dw2 L2 Bw2 R2 3Dw L Dw Rw Bw L D Lw2 3Dw2 3Fw' Fw' F' D 3Dw Dw 3Rw Bw Lw2 F' 3Uw2 3Rw2 B 3Bw' L 3Bw Dw2 3Dw 3Fw' D Rw D R' Bw' 3Dw2 Uw Lw 3Rw' 3Bw2 Bw' Rw' Dw' 3Dw 3Lw L' U F 3Lw' 3Bw' Dw2 3Rw' Rw R' D' Dw Rw2 3Rw' L' D2"
+  ],
+  "extraScrambles": [
+    "L Uw 3Fw2 F2 3Uw2 3Rw 3Lw' 3Dw Rw2 B' 3Dw' 3Uw' U 3Lw 3Bw Dw2 3Bw' 3Lw2 R Dw Lw' 3Fw Fw' B' R Rw2 Bw Rw2 D2 Bw2 3Fw B2 D' Rw2 Bw2 3Dw' L D' R2 Fw2 Dw 3Uw' D2 L Uw 3Dw 3Uw' Dw2 3Rw' D 3Uw' Uw' Lw' 3Fw Lw2 R2 Bw' 3Dw Uw' U' Fw2 B U2 3Uw' Lw 3Uw' Fw2 D' Rw' B2 3Dw' Fw' Bw2 3Dw B 3Dw' 3Rw' L2 3Uw2 3Rw Dw2 3Uw2 3Dw2 Bw B' 3Uw 3Fw2 Lw2 3Bw 3Lw' Fw' Uw2 F2 Fw2 Dw Rw' 3Rw' L2 3Dw2 Uw2",
+    "Dw2 3Uw2 B 3Lw' 3Bw2 Rw' Bw' 3Bw' F B' U Bw2 L' 3Fw R 3Uw2 Bw D R2 3Fw R 3Uw Dw U Lw U' Uw2 3Bw' B 3Fw' 3Lw2 Uw' R' Dw 3Lw' 3Rw2 D' 3Lw 3Uw 3Dw' R' 3Uw U2 Bw' 3Dw' Uw 3Lw' Dw2 L' 3Fw' B' 3Lw2 Rw2 3Rw Bw Rw2 R2 Uw Lw' R Rw Uw' F2 R2 D2 Rw2 R U' 3Uw' Bw Rw' 3Rw' Bw' D2 L2 Bw2 U' B 3Bw R 3Dw' Fw' Dw' Bw 3Lw2 Lw 3Rw2 Bw2 3Dw Uw' Fw' 3Bw D2 3Lw Fw2 3Uw Fw' 3Bw2 3Dw 3Rw"
+  ]
+}
+-----------------------------------------------------------------
+777R1C.pdf
+{
+  "scrambles": [
+    "3Lw 3Fw' R 3Dw Dw2 Rw Uw' Lw' Bw' 3Fw2 3Uw' Lw2 L2 R 3Bw' 3Dw2 R 3Rw Rw Fw Lw L' 3Fw' L' U2 3Rw' F' L R Dw' Fw' D2 U Bw2 3Dw 3Fw 3Bw2 Dw Rw Fw Lw' 3Fw2 Fw2 3Lw' Dw2 3Fw2 F' Dw Rw' F' 3Uw' Uw' 3Rw2 3Dw' Rw D2 Dw Bw Lw U 3Rw2 F' 3Lw 3Bw' B' F' 3Rw 3Uw Dw' F R 3Bw Rw' 3Dw' R2 Dw 3Lw2 L2 Rw U Dw2 3Rw2 3Dw' 3Rw2 L Rw2 U' 3Fw B2 Lw2 3Dw' Fw2 F D 3Dw' Rw2 Lw2 D' B 3Fw'",
+    "Rw2 3Lw' Uw L Rw' Bw' Uw 3Rw' 3Uw2 Rw' Uw 3Rw 3Bw Dw2 U2 D B' Fw' Dw R2 Rw' Uw2 Fw2 3Fw' Dw2 F' 3Fw2 L2 F2 B' Bw 3Lw' U2 L2 Rw 3Rw 3Uw' Bw R' D2 3Fw' Rw 3Rw2 Uw' 3Uw2 Fw' 3Lw 3Bw' R F2 Fw 3Dw 3Uw 3Lw' F 3Lw' 3Rw' B Uw2 Lw' Uw' 3Rw Dw2 3Lw Bw 3Fw Lw Fw 3Bw' F Dw2 B2 D 3Dw2 L' Dw' Fw2 3Lw L Lw2 Uw' B2 3Dw2 B 3Uw2 Lw2 3Dw2 D' F2 3Fw R' Dw2 Rw 3Fw2 Dw2 D' F Uw2 U' 3Bw2",
+    "B' 3Bw' Lw2 3Uw' L2 3Fw 3Lw' U2 Dw2 Uw2 Bw2 R D R2 Rw' L' F Uw2 3Uw' Dw R' Rw D' 3Uw2 B' R 3Lw2 D' 3Fw R2 3Dw' F' 3Uw' U R 3Bw Lw' 3Lw' U' Rw' B 3Rw R' Bw L 3Lw2 3Bw2 Bw' Uw' U' F' R 3Uw 3Fw' B2 L2 3Lw Bw2 3Uw' L2 3Uw' B 3Fw2 3Rw 3Dw' F 3Rw2 3Bw2 3Dw2 D2 Rw2 Dw2 R2 3Fw' L2 3Uw2 3Rw' B2 R Uw' Fw2 B L2 Rw 3Bw' F' 3Uw2 D' B 3Lw Bw2 Rw' L2 Bw 3Rw U2 F2 Dw' U2 L"
+  ],
+  "extraScrambles": [
+    "R2 B2 L' U R2 3Rw2 L2 3Uw 3Rw 3Fw U Bw 3Fw' R' B' 3Rw' B' F Lw Uw2 3Bw2 Bw D2 3Fw 3Lw2 Fw R2 3Fw B Dw' Bw2 B' 3Dw 3Fw' Bw2 3Dw2 F' Dw F2 Dw 3Fw B' Bw F Dw 3Uw' Bw F Lw U2 Uw' 3Fw2 Rw 3Dw R' Bw' 3Uw2 Lw2 Fw2 U2 Rw' L 3Dw 3Fw2 Uw' 3Fw2 Fw' Rw D' 3Bw' Bw2 D' 3Lw' Fw2 Uw' R Bw D2 3Lw2 Dw2 3Uw' 3Dw Uw' 3Lw L2 Lw' 3Bw D U2 R2 Lw U2 Dw Fw' U 3Fw Lw R U' B'",
+    "Bw' Fw 3Dw' 3Fw Lw2 Bw' R2 B' R' 3Bw2 3Uw2 Rw' F2 Dw' F D R' B R B2 3Lw' U2 3Dw' 3Rw2 Bw 3Bw' R Fw2 B' Bw' D' 3Rw' B2 3Rw2 B 3Fw L 3Uw Lw L2 B 3Fw' R2 Dw U' Lw' Rw2 3Fw2 3Uw' 3Rw' U2 D' 3Uw 3Dw' Bw2 B Rw2 3Bw D R' 3Rw' Uw 3Uw' D 3Lw 3Dw Bw D2 3Rw' Uw Lw' U' L Rw 3Rw Dw' Fw Dw' L' 3Fw' U2 3Bw 3Lw Uw B F2 Bw2 D Bw F U' 3Rw Uw 3Lw' Fw' B' 3Fw D' 3Uw Rw2"
+  ]
+}
+-----------------------------------------------------------------
+ClockR1A.pdf
+{
+  "scrambles": [
+    "UR5+ DR4- DL5- UL2- U1+ R4+ D2+ L4- ALL6+ y2 U1+ R0+ D2- L5- ALL3+ DL",
+    "UR1+ DR1+ DL2- UL3- U1- R6+ D3+ L0+ ALL6+ y2 U2- R3- D2+ L2- ALL1- DL",
+    "UR5+ DR3- DL5+ UL5+ U5- R4- D5- L5- ALL3+ y2 U3+ R1- D6+ L5+ ALL4- DR DL",
+    "UR1+ DR4- DL5- UL4- U5- R5- D3+ L5- ALL1+ y2 U0+ R6+ D6+ L1+ ALL2- DR DL UL",
+    "UR4- DR1- DL2- UL4+ U1+ R1+ D4- L4- ALL2+ y2 U2+ R2+ D3+ L1+ ALL6+ UR UL",
+  ],
+  "extraScrambles": [
+    "UR6+ DR4- DL5+ UL2+ U5+ R2+ D4- L3+ ALL3+ y2 U0+ R5- D5- L0+ ALL6+ UR DR DL UL",
+    "UR5- DR4+ DL4+ UL5+ U5+ R3+ D2- L0+ ALL4- y2 U1- R2+ D5+ L6+ ALL3- UL"
+  ]
+}
+-----------------------------------------------------------------
+ClockR1B.pdf
+{
+  "scrambles": [
+    "UR2- DR3- DL6+ UL6+ U2+ R3- D1- L4- ALL4- y2 U3+ R1+ D5- L4+ ALL4- UR DR UL",
+    "UR1- DR1- DL1- UL2+ U1- R2- D4- L1+ ALL1- y2 U1- R5- D3- L4+ ALL1- UR DR",
+    "UR5+ DR0+ DL2- UL5+ U0+ R2- D6+ L3+ ALL0+ y2 U5- R1+ D5+ L6+ ALL1+ DR DL",
+    "UR0+ DR4- DL1+ UL4+ U3- R1- D2+ L4- ALL3- y2 U3- R5+ D3+ L3+ ALL2+",
+    "UR4+ DR2- DL5- UL6+ U5+ R2- D4- L1+ ALL3+ y2 U5+ R4- D3+ L3- ALL3+ UR DR DL",
+  ],
+  "extraScrambles": [
+    "UR1+ DR4- DL0+ UL4+ U0+ R3+ D3- L5+ ALL1- y2 U3+ R5- D6+ L3+ ALL4+ DR DL",
+    "UR1+ DR4+ DL5+ UL6+ U3- R1- D3- L1+ ALL0+ y2 U3+ R3+ D1+ L1+ ALL5+ DR DL UL",
+  ]
+}
+-----------------------------------------------------------------
+ClockR1C.pdf
+{
+  "scrambles": [
+    "UR5- DR2- DL1+ UL5- U6+ R2+ D5+ L4- ALL4- y2 U3- R6+ D1- L4- ALL2-",
+    "UR5+ DR1+ DL3- UL5+ U2+ R5- D4+ L6+ ALL2+ y2 U5- R5- D3+ L0+ ALL2+ UR",
+    "UR2+ DR4- DL6+ UL4+ U1+ R4- D2+ L2+ ALL4+ y2 U3- R5- D2- L2+ ALL4+ UR DR UL",
+    "UR0+ DR1- DL1- UL5- U0+ R0+ D6+ L0+ ALL2- y2 U5- R3+ D4- L6+ ALL4- DR DL UL",
+    "UR4+ DR4+ DL4- UL2- U3- R2- D5- L2+ ALL5- y2 U1- R5- D3+ L1- ALL5+ DL",
+  ],
+  "extraScrambles": [
+    "UR3- DR3+ DL3+ UL3- U5+ R4+ D1- L3+ ALL1- y2 U4- R2+ D3+ L3- ALL4+ DR DL",
+    "UR1- DR5- DL1+ UL4+ U5- R2- D5- L2+ ALL4- y2 U2- R5- D1+ L2- ALL0+ DR UL",
+  ]
+}
+-----------------------------------------------------------------
+MegaR1A.pdf
+{
+  "scrambles": [
+    "R-- D-- R++ D-- R-- D-- R++ D++ R++ D-- U' R++ D++ R-- D-- R-- D++ R++ D-- R-- D++ U R++ D++ R++ D-- R++ D++ R++ D-- R++ D-- U' R++ D-- R-- D-- R++ D-- R-- D-- R++ D++ U R++ D++ R-- D-- R-- D++ R-- D++ R++ D++ U R++ D-- R-- D++ R-- D-- R++ D++ R++ D-- U' R++ D++ R-- D-- R++ D-- R-- D-- R-- D-- U'",
+    "R++ D++ R-- D++ R++ D++ R-- D-- R-- D++ U R-- D-- R-- D-- R-- D++ R-- D++ R++ D-- U' R-- D++ R++ D++ R++ D++ R-- D++ R-- D++ U R++ D-- R-- D-- R-- D-- R++ D-- R-- D++ U R-- D++ R-- D-- R-- D-- R-- D++ R++ D-- U' R++ D-- R-- D++ R++ D++ R-- D++ R-- D-- U' R++ D-- R-- D++ R++ D-- R-- D-- R-- D-- U'",
+    "R++ D-- R-- D++ R-- D++ R++ D++ R++ D++ U R-- D++ R-- D-- R-- D-- R++ D++ R++ D-- U' R-- D-- R++ D++ R-- D-- R-- D++ R-- D-- U' R-- D-- R++ D-- R++ D-- R-- D-- R++ D-- U' R-- D++ R++ D++ R-- D++ R++ D-- R-- D-- U' R++ D++ R++ D-- R++ D-- R++ D++ R-- D-- U' R++ D-- R-- D-- R++ D++ R-- D-- R++ D++ U",
+    "R++ D++ R-- D-- R-- D++ R-- D++ R++ D++ U R++ D++ R++ D-- R++ D-- R-- D++ R++ D-- U' R++ D-- R-- D-- R-- D++ R-- D++ R++ D-- U' R-- D++ R-- D-- R-- D++ R++ D-- R-- D++ U R++ D++ R++ D-- R++ D++ R-- D-- R-- D++ U R++ D++ R-- D-- R-- D-- R-- D++ R-- D-- U' R-- D++ R-- D++ R++ D-- R++ D-- R-- D++ U",
+    "R-- D-- R-- D++ R-- D++ R-- D-- R-- D++ U R++ D++ R++ D++ R++ D++ R-- D-- R++ D++ U R++ D++ R++ D-- R-- D-- R-- D++ R++ D++ U R-- D-- R-- D++ R-- D++ R++ D-- R++ D++ U R-- D-- R++ D++ R-- D++ R++ D-- R++ D-- U' R-- D-- R-- D-- R++ D++ R-- D++ R-- D-- U' R-- D++ R++ D-- R++ D-- R++ D++ R++ D-- U'"
+  ],
+  "extraScrambles": [
+    "R-- D-- R-- D++ R++ D++ R++ D-- R++ D++ U R++ D++ R++ D-- R-- D++ R++ D++ R-- D-- U' R++ D-- R++ D++ R-- D-- R-- D++ R-- D++ U R-- D-- R-- D++ R-- D++ R++ D++ R++ D-- U' R++ D++ R++ D++ R-- D++ R-- D++ R-- D++ U R++ D-- R++ D-- R++ D-- R-- D-- R-- D++ U R-- D++ R-- D-- R++ D++ R-- D-- R++ D++ U",
+    "R-- D++ R++ D++ R-- D++ R-- D-- R++ D++ U R-- D++ R++ D++ R-- D-- R-- D-- R++ D++ U R++ D-- R-- D-- R-- D++ R-- D-- R-- D++ U R++ D++ R++ D-- R-- D-- R-- D++ R++ D++ U R++ D-- R-- D-- R++ D-- R-- D++ R++ D++ U R++ D-- R++ D-- R-- D-- R++ D-- R-- D-- U' R++ D++ R-- D-- R++ D-- R++ D++ R-- D-- U'"
+  ]
+}
+-----------------------------------------------------------------
+MegaR1B.pdf
+{
+  "scrambles": [
+    "R++ D-- R-- D++ R++ D++ R-- D++ R++ D++ U R-- D++ R++ D-- R++ D-- R++ D-- R++ D++ U R++ D-- R-- D-- R-- D++ R-- D++ R-- D-- U' R++ D++ R++ D++ R-- D-- R++ D++ R++ D-- U' R++ D-- R-- D-- R-- D++ R++ D++ R-- D++ U R-- D++ R++ D++ R-- D-- R-- D++ R++ D++ U R-- D++ R-- D++ R++ D-- R++ D++ R++ D++ U",
+    "R++ D++ R++ D-- R-- D++ R++ D++ R-- D++ U R-- D++ R-- D++ R-- D++ R-- D-- R++ D++ U R-- D++ R-- D++ R-- D++ R-- D++ R-- D-- U' R-- D++ R++ D++ R++ D-- R-- D++ R++ D++ U R++ D-- R++ D-- R-- D++ R-- D-- R++ D-- U' R++ D++ R++ D++ R-- D-- R++ D++ R-- D-- U' R-- D-- R-- D-- R++ D++ R-- D-- R++ D-- U'",
+    "R++ D++ R-- D++ R++ D-- R-- D++ R++ D-- U' R-- D++ R-- D++ R++ D++ R++ D++ R++ D++ U R++ D-- R-- D-- R++ D-- R++ D++ R-- D-- U' R++ D-- R++ D++ R-- D-- R++ D++ R-- D++ U R++ D-- R++ D-- R-- D-- R-- D++ R++ D++ U R++ D-- R-- D++ R-- D-- R-- D-- R++ D++ U R-- D++ R++ D++ R-- D-- R-- D++ R-- D-- U'",
+    "R-- D-- R-- D++ R-- D-- R-- D-- R++ D++ U R++ D++ R++ D-- R-- D-- R-- D-- R-- D++ U R-- D++ R++ D-- R-- D-- R++ D-- R-- D-- U' R-- D-- R++ D-- R++ D++ R++ D-- R++ D-- U' R-- D++ R-- D++ R-- D++ R-- D-- R-- D++ U R++ D-- R++ D++ R-- D++ R++ D-- R-- D-- U' R++ D++ R++ D++ R-- D-- R-- D-- R-- D++ U",
+    "R++ D-- R++ D++ R++ D++ R++ D-- R++ D-- U' R-- D-- R++ D++ R++ D-- R-- D-- R-- D++ U R-- D-- R++ D-- R-- D++ R++ D-- R-- D-- U' R-- D-- R-- D-- R++ D-- R-- D-- R-- D++ U R++ D++ R++ D-- R++ D++ R++ D-- R++ D++ U R-- D++ R++ D++ R-- D-- R-- D++ R-- D++ U R++ D-- R-- D++ R++ D++ R-- D++ R-- D++ U"
+  ],
+  "extraScrambles": [
+    "R++ D++ R-- D-- R++ D-- R++ D++ R++ D++ U R++ D-- R++ D-- R++ D-- R-- D++ R++ D-- U' R-- D-- R-- D-- R++ D-- R++ D++ R-- D-- U' R-- D++ R++ D++ R++ D++ R++ D++ R++ D-- U' R-- D++ R-- D++ R++ D++ R-- D-- R-- D++ U R++ D-- R++ D-- R++ D++ R++ D++ R-- D-- U' R-- D-- R-- D++ R-- D-- R++ D++ R++ D++ U",
+    "R-- D++ R++ D++ R-- D-- R++ D++ R++ D++ U R++ D++ R++ D++ R-- D-- R-- D-- R-- D++ U R++ D++ R-- D-- R-- D-- R-- D++ R-- D++ U R++ D++ R-- D-- R++ D++ R++ D-- R++ D-- U' R++ D-- R-- D++ R-- D++ R++ D-- R-- D-- U' R-- D++ R-- D-- R-- D++ R++ D++ R-- D++ U R-- D++ R-- D++ R++ D++ R-- D-- R++ D++ U"
+  ]
+}
+-----------------------------------------------------------------
+MegaR1C.pdf
+{
+  "scrambles": [
+    "R++ D++ R-- D++ R++ D++ R++ D-- R++ D-- U' R-- D-- R++ D++ R++ D-- R++ D-- R-- D++ U R-- D++ R++ D++ R++ D-- R++ D-- R++ D++ U R-- D++ R++ D++ R-- D++ R++ D-- R++ D-- U' R-- D-- R++ D-- R-- D-- R-- D-- R-- D++ U R++ D++ R-- D-- R-- D-- R++ D++ R-- D-- U' R-- D++ R-- D++ R-- D++ R++ D++ R++ D-- U'",
+    "R++ D++ R++ D-- R++ D++ R-- D++ R++ D-- U' R++ D++ R-- D++ R++ D-- R-- D-- R-- D-- U' R-- D++ R++ D++ R++ D++ R++ D++ R-- D++ U R-- D++ R-- D++ R-- D-- R-- D++ R-- D-- U' R-- D-- R-- D-- R++ D++ R++ D-- R-- D-- U' R-- D-- R-- D-- R-- D-- R++ D-- R++ D-- U' R++ D-- R-- D++ R++ D-- R-- D-- R-- D-- U'",
+    "R-- D-- R++ D-- R++ D++ R++ D++ R-- D-- U' R-- D-- R++ D++ R-- D-- R++ D++ R++ D++ U R++ D-- R++ D-- R++ D++ R-- D++ R++ D++ U R-- D-- R++ D++ R-- D++ R++ D-- R-- D-- U' R-- D++ R++ D-- R-- D++ R-- D++ R++ D-- U' R++ D-- R-- D++ R++ D-- R++ D-- R++ D-- U' R++ D-- R++ D-- R++ D++ R-- D-- R-- D++ U",
+    "R++ D-- R++ D-- R-- D-- R++ D++ R++ D-- U' R++ D-- R-- D-- R-- D++ R-- D-- R-- D++ U R++ D++ R++ D-- R-- D-- R-- D++ R-- D++ U R-- D++ R++ D++ R-- D++ R++ D-- R-- D-- U' R-- D++ R++ D-- R-- D++ R-- D-- R++ D++ U R-- D++ R-- D++ R++ D-- R++ D++ R-- D++ U R-- D-- R-- D++ R++ D++ R++ D-- R++ D++ U",
+    "R-- D++ R-- D-- R-- D++ R++ D-- R++ D-- U' R++ D-- R++ D-- R-- D++ R++ D-- R++ D++ U R++ D-- R++ D-- R++ D-- R++ D-- R-- D++ U R++ D-- R-- D-- R++ D-- R-- D-- R-- D++ U R++ D-- R-- D++ R-- D++ R++ D-- R-- D++ U R-- D++ R-- D-- R++ D++ R-- D++ R++ D-- U' R-- D++ R++ D++ R-- D++ R-- D++ R++ D++ U"
+  ],
+  "extraScrambles": [
+    "R-- D-- R++ D++ R++ D++ R-- D++ R-- D-- U' R++ D++ R++ D++ R-- D-- R-- D++ R-- D-- U' R-- D-- R++ D-- R++ D-- R++ D-- R-- D-- U' R-- D++ R++ D-- R++ D++ R-- D-- R++ D++ U R++ D++ R++ D++ R-- D-- R++ D-- R++ D-- U' R-- D++ R++ D-- R-- D-- R++ D++ R++ D++ U R++ D-- R++ D++ R-- D++ R++ D++ R++ D++ U",
+    "R++ D-- R++ D-- R++ D-- R-- D++ R-- D-- U' R-- D-- R++ D-- R-- D++ R++ D++ R++ D++ U R-- D++ R++ D++ R++ D-- R++ D-- R-- D-- U' R++ D++ R-- D++ R-- D++ R-- D-- R++ D-- U' R++ D-- R-- D-- R++ D++ R++ D++ R++ D-- U' R-- D++ R-- D-- R++ D++ R++ D++ R-- D-- U' R++ D-- R++ D++ R++ D++ R-- D-- R++ D-- U'"
+  ]
+}
+-----------------------------------------------------------------
+PyraR1A.pdf
+{
+  "scrambles": [
+    "R B' L' R' U L B U R U R u l' r b'",
+    "L' B R' L' B R' B R L B' L' u' r b",
+    "L B U B R' B' L' B U' L' U' u' b",
+    "R L' U R B L U L' R B R u r' b",
+    "B R' L' R L' R' L' U B' L R b"
+  ],
+  "extraScrambles": [
+    "B U' B' U R L R' U B R' B u r b'",
+    "B R U' L' U' B' R L B L' U u' l r"
+  ]
+}
+-----------------------------------------------------------------
+PyraR1B.pdf
+{
+  "scrambles": [
+    "B' R' B U R' U B L' R' B R' u r b",
+    "L U R U' B R L B L' U R' l' r' b",
+    "B L R L' R U' B R' L' U' B' u' l r' b'",
+    "U' B' R' B' U B' L' R' L' B' R' u' l' r' b",
+    "B U R' L' B' R' B U' B' R' U u l"
+  ],
+  "extraScrambles": [
+    "L' B L U R U' L' U' B L B' u l r b",
+    "U' B R' L' B L' R U' R' L' U l r'"
+  ]
+}
+-----------------------------------------------------------------
+PyraR1C.pdf
+{
+  "scrambles": [
+    "L' R L R U' L' U B R B' R' u l b'",
+    "R B L' U' L' B' U B L' B U u' r' b'",
+    "B U R' B U' B L R U' B L u l' r'",
+    "B' U' R' B U' B U' B U' B' U' u' l' r b'",
+    "B U B' R' B L B L' B U' B u l' r' b"
+  ],
+  "extraScrambles": [
+    "B L B' U' R B R U L R' L l r' b",
+    "R' B R' L B R U' R' L' R' L r' b'"
+  ]
+}
+-----------------------------------------------------------------
+SkewbR1A.pdf
+{
+  "scrambles": [
+    "R B L U' B' R' U L' U B R'",
+    "R B R U' B' U' L' U B' R' B'",
+    "R U B' U L' U B' R' U R' L",
+    "L U L R' L' B' U R L B' U'",
+    "B U B R B L' R' U' L B' U'"
+  ],
+  "extraScrambles": [
+    "L R B' R' B U L U' B' R' L'",
+    "L R B R' U' R' L U' R' B L"
+  ]
+}
+-----------------------------------------------------------------
+SkewbR1B.pdf
+{
+  "scrambles": [
+    "U L R B' U R' U L U B R'",
+    "B U B' U L' U B R' U' B' L'",
+    "B L R B' R L' B L U' B' U'",
+    "B R B' L U' R' U' B' L' R' B",
+    "B U' B L U' B L' U B U' B"
+  ],
+  "extraScrambles": [
+    "U L R' B' L' U B' R' L B L",
+    "L R B' R' L B R' U B R U"
+  ]
+}
+-----------------------------------------------------------------
+SkewbR1C.pdf
+{
+  "scrambles": [
+    "B L U B U' R' U R' B R L'",
+    "B R U L R' U' B' U B L' R'",
+    "B L U' L U R B' R B U B",
+    "R B L U R' B L' U R U B",
+    "U L B R' L U' B R' U R B'"
+  ],
+  "extraScrambles": [
+    "B R U' B L B L' U' B R U",
+    "L R L' B L' R' L' B L' R' L"
+  ]
+}
+-----------------------------------------------------------------
